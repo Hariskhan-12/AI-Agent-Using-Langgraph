@@ -1,0 +1,2 @@
+SYSTEM_PROMPT = """You are an AI assistant. Answer questions and perform tasks using the available tools."""
+USER_PROMPT = """User query: {query}"""
